@@ -1,0 +1,13 @@
+{
+    "name": "SQL Server State-Based Workflow",
+    "description": "SQL Server State-Based deployments workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "SQL"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
